@@ -9,4 +9,4 @@ The primary section of this repository is the 'Wiki' page available across the t
 -----
 # Updating
 
-If any of the information is inaccurate/out-of-date, a fork & push of such updates is welcomed and much appreciated. This is intended as an open-source wiki for all to utilize, and therefore, the information must be both accurate and up-to-date.
+If any of the information is inaccurate/out-of-date, a fork & merge of such updates is welcomed and much appreciated. This is intended as an open-source wiki for all to utilize, and therefore, the information must be both accurate and up-to-date.
